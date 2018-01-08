@@ -1,0 +1,8 @@
+{
+  "name": "eClaims",
+  "app_id": "8cdfce8e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
